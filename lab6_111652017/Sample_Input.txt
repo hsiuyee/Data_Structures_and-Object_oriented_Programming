@@ -1,0 +1,4 @@
+3
+Pikachu, pikachu, 142, 117, 101, 112, 112, 156
+Mimikyu, mimikyu, 162, 156, 145, 112, 172, 162
+Charizard, charizard, 185, 149, 143, 177, 150, 167

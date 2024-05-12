@@ -1,0 +1,6 @@
+5
+Pikachu, pidgey, 40, 45, 40, 35, 35, 56
+Mimikyu, lickitung, 90, 55, 75, 60, 75, 30
+Charizard, ditto, 48, 48, 48, 48, 48, 48
+Mimikyu, snorlax, 160, 110, 65, 65, 110, 30
+Pikachu, skitty, 50, 45, 45, 35, 35, 50

@@ -1,0 +1,29 @@
+num1 = 123456
+num2 = 661152
+num1_prime_factor: 2^6 * 3 * 643
+num2_prime_factor: 2^5 * 3 * 71 * 97
+GCD_prime_factor: 2^5 * 3
+
+num1 = 51284
+num2 = 12387
+num1_prime_factor: 2^2 * 12821
+num2_prime_factor: 3 * 4129
+GCD_prime_factor: 1
+
+num1 = 3254
+num2 = 9182
+num1_prime_factor: 2 * 1627
+num2_prime_factor: 2 * 4591
+GCD_prime_factor: 2
+
+num1 = 2813291
+num2 = 870090
+num1_prime_factor: 13 * 23 * 97^2
+num2_prime_factor: 2 * 3 * 5 * 13 * 23 * 97
+GCD_prime_factor: 13 * 23 * 97
+
+num1 = 1043115528
+num2 = 1201746
+num1_prime_factor: 2^3 * 3 * 7^2 * 13 * 31^2 * 71
+num2_prime_factor: 2 * 3 * 7 * 13 * 31 * 71
+GCD_prime_factor: 2 * 3 * 7 * 13 * 31 * 71

@@ -1,0 +1,27 @@
+pikachu is Pikachu
+> hp: 142
+> attack: 117
+> defense: 101
+> specialAttack: 112
+> specialDefense: 112
+> speed: 156
+
+mimikyu is Mimikyu
+> hp: 162
+> attack: 156
+> defense: 145
+> specialAttack: 112
+> specialDefense: 172
+> speed: 162
+
+charizard is Charizard
+> hp: 185
+> attack: 149
+> defense: 143
+> specialAttack: 177
+> specialDefense: 150
+> speed: 167
+
+Trainer Red can not use Pikachu
+Trainer Red can not use Mimikyu
+Trainer Red changes Pokemon successfully
