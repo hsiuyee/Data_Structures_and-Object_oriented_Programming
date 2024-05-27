@@ -1,0 +1,118 @@
+﻿  myBasicTools.cpp
+  mySystem_2048.cpp
+\\Mac\Home\Downloads\HW3\OOP_HW03_Template_NET2019_202402\primitives\vector3d.h(24,61): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  mySystem_2048_draw.cpp
+\\Mac\Home\Downloads\HW3\OOP_HW03_Template_NET2019_202402\primitives\vector3d.h(24,61): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+\\Mac\Home\Downloads\HW3\OOP_HW03_Template_NET2019_202402\00_StudentWork\00_SimpleInteractiveSystem\mySystem_2048_draw.cpp(70,35): warning C4305: 'argument': truncation from 'double' to 'float'
+\\Mac\Home\Downloads\HW3\OOP_HW03_Template_NET2019_202402\00_StudentWork\00_SimpleInteractiveSystem\mySystem_2048_draw.cpp(95,43): warning C4305: 'argument': truncation from 'double' to 'float'
+\\Mac\Home\Downloads\HW3\OOP_HW03_Template_NET2019_202402\00_StudentWork\00_SimpleInteractiveSystem\mySystem_2048_draw.cpp(205,73): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+\\Mac\Home\Downloads\HW3\OOP_HW03_Template_NET2019_202402\00_StudentWork\00_SimpleInteractiveSystem\mySystem_2048_draw.cpp(205,33): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+\\Mac\Home\Downloads\HW3\OOP_HW03_Template_NET2019_202402\00_StudentWork\00_SimpleInteractiveSystem\mySystem_2048_draw.cpp(227,43): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+\\Mac\Home\Downloads\HW3\OOP_HW03_Template_NET2019_202402\00_StudentWork\00_SimpleInteractiveSystem\mySystem_2048_draw.cpp(227,34): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+\\Mac\Home\Downloads\HW3\OOP_HW03_Template_NET2019_202402\00_StudentWork\00_SimpleInteractiveSystem\mySystem_2048_draw.cpp(227,25): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+\\Mac\Home\Downloads\HW3\OOP_HW03_Template_NET2019_202402\00_StudentWork\00_SimpleInteractiveSystem\mySystem_2048_draw.cpp(251,31): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+  mySystem_GraphSystem.cpp
+\\Mac\Home\Downloads\HW3\OOP_HW03_Template_NET2019_202402\00_StudentWork\00_SimpleInteractiveSystem\mySystem_GraphSystem.cpp(88,34): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+\\Mac\Home\Downloads\HW3\OOP_HW03_Template_NET2019_202402\00_StudentWork\00_SimpleInteractiveSystem\mySystem_GraphSystem.cpp(89,34): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+\\Mac\Home\Downloads\HW3\OOP_HW03_Template_NET2019_202402\00_StudentWork\00_SimpleInteractiveSystem\mySystem_GraphSystem.cpp(90,34): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+\\Mac\Home\Downloads\HW3\OOP_HW03_Template_NET2019_202402\00_StudentWork\00_SimpleInteractiveSystem\mySystem_GraphSystem.cpp(116,34): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+\\Mac\Home\Downloads\HW3\OOP_HW03_Template_NET2019_202402\00_StudentWork\00_SimpleInteractiveSystem\mySystem_GraphSystem.cpp(157,38): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+\\Mac\Home\Downloads\HW3\OOP_HW03_Template_NET2019_202402\00_StudentWork\00_SimpleInteractiveSystem\mySystem_GraphSystem.cpp(198,15): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+\\Mac\Home\Downloads\HW3\OOP_HW03_Template_NET2019_202402\00_StudentWork\00_SimpleInteractiveSystem\mySystem_GraphSystem.cpp(213,91): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+\\Mac\Home\Downloads\HW3\OOP_HW03_Template_NET2019_202402\00_StudentWork\00_SimpleInteractiveSystem\mySystem_GraphSystem.cpp(213,55): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+\\Mac\Home\Downloads\HW3\OOP_HW03_Template_NET2019_202402\00_StudentWork\00_SimpleInteractiveSystem\mySystem_GraphSystem.cpp(220,23): warning C4018: '<': signed/unsigned mismatch
+\\Mac\Home\Downloads\HW3\OOP_HW03_Template_NET2019_202402\00_StudentWork\00_SimpleInteractiveSystem\mySystem_GraphSystem.cpp(221,29): warning C4018: '<': signed/unsigned mismatch
+\\Mac\Home\Downloads\HW3\OOP_HW03_Template_NET2019_202402\00_StudentWork\00_SimpleInteractiveSystem\mySystem_GraphSystem.cpp(195,9): warning C4101: 'temp': unreferenced local variable
+\\Mac\Home\Downloads\HW3\OOP_HW03_Template_NET2019_202402\00_StudentWork\00_SimpleInteractiveSystem\mySystem_GraphSystem.cpp(248,34): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+\\Mac\Home\Downloads\HW3\OOP_HW03_Template_NET2019_202402\00_StudentWork\00_SimpleInteractiveSystem\mySystem_GraphSystem.cpp(360,31): warning C4018: '<': signed/unsigned mismatch
+\\Mac\Home\Downloads\HW3\OOP_HW03_Template_NET2019_202402\00_StudentWork\00_SimpleInteractiveSystem\mySystem_GraphSystem.cpp(361,35): warning C4018: '<': signed/unsigned mismatch
+  mySystem_GraphSystem_draw.cpp
+\\Mac\Home\Downloads\HW3\OOP_HW03_Template_NET2019_202402\primitives\vector3d.h(24,61): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+\\Mac\Home\Downloads\HW3\OOP_HW03_Template_NET2019_202402\00_StudentWork\00_SimpleInteractiveSystem\mySystem_GraphSystem_draw.cpp(21,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+\\Mac\Home\Downloads\HW3\OOP_HW03_Template_NET2019_202402\00_StudentWork\00_SimpleInteractiveSystem\mySystem_GraphSystem_draw.cpp(44,52): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+\\Mac\Home\Downloads\HW3\OOP_HW03_Template_NET2019_202402\00_StudentWork\00_SimpleInteractiveSystem\mySystem_GraphSystem_draw.cpp(60,13): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+\\Mac\Home\Downloads\HW3\OOP_HW03_Template_NET2019_202402\00_StudentWork\00_SimpleInteractiveSystem\mySystem_GraphSystem_draw.cpp(58,17): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+\\Mac\Home\Downloads\HW3\OOP_HW03_Template_NET2019_202402\00_StudentWork\00_SimpleInteractiveSystem\mySystem_GraphSystem_draw.cpp(74,9): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+\\Mac\Home\Downloads\HW3\OOP_HW03_Template_NET2019_202402\00_StudentWork\00_SimpleInteractiveSystem\mySystem_GraphSystem_draw.cpp(72,13): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  mySystem_ImageEditor.cpp
+\\Mac\Home\Downloads\HW3\OOP_HW03_Template_NET2019_202402\00_StudentWork\00_SimpleInteractiveSystem\mySystem_ImageEditor.cpp(35,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  mySystem_ImageEditor_draw.cpp
+\\Mac\Home\Downloads\HW3\OOP_HW03_Template_NET2019_202402\00_StudentWork\00_SimpleInteractiveSystem\mySystem_ImageEditor_draw.cpp(18,29): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+\\Mac\Home\Downloads\HW3\OOP_HW03_Template_NET2019_202402\00_StudentWork\00_SimpleInteractiveSystem\mySystem_ImageEditor_draw.cpp(18,21): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+\\Mac\Home\Downloads\HW3\OOP_HW03_Template_NET2019_202402\00_StudentWork\00_SimpleInteractiveSystem\mySystem_ImageEditor_draw.cpp(30,34): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+\\Mac\Home\Downloads\HW3\OOP_HW03_Template_NET2019_202402\00_StudentWork\00_SimpleInteractiveSystem\mySystem_ImageEditor_draw.cpp(30,25): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+\\Mac\Home\Downloads\HW3\OOP_HW03_Template_NET2019_202402\00_StudentWork\00_SimpleInteractiveSystem\mySystem_ImageEditor_draw.cpp(53,28): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  basic_app.cpp
+  main.cpp
+  mySystemApp.cpp
+\\Mac\Home\Downloads\HW3\OOP_HW03_Template_NET2019_202402\primitives\vector3d.h(24,61): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+\\Mac\Home\Downloads\HW3\OOP_HW03_Template_NET2019_202402\00_StudentWork\00_SimpleInteractiveSystem\mySystemApp.cpp(69,39): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+\\Mac\Home\Downloads\HW3\OOP_HW03_Template_NET2019_202402\00_StudentWork\00_SimpleInteractiveSystem\mySystemApp.cpp(72,30): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  mySystemApp_draw.cpp
+\\Mac\Home\Downloads\HW3\OOP_HW03_Template_NET2019_202402\primitives\vector3d.h(24,61): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+\\Mac\Home\Downloads\HW3\OOP_HW03_Template_NET2019_202402\00_StudentWork\00_SimpleInteractiveSystem\mySystemApp_draw.cpp(103,29): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+\\Mac\Home\Downloads\HW3\OOP_HW03_Template_NET2019_202402\00_StudentWork\00_SimpleInteractiveSystem\mySystemApp_draw.cpp(103,21): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+\\Mac\Home\Downloads\HW3\OOP_HW03_Template_NET2019_202402\00_StudentWork\00_SimpleInteractiveSystem\mySystemApp_draw.cpp(106,30): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+\\Mac\Home\Downloads\HW3\OOP_HW03_Template_NET2019_202402\00_StudentWork\00_SimpleInteractiveSystem\mySystemApp_draw.cpp(106,21): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+\\Mac\Home\Downloads\HW3\OOP_HW03_Template_NET2019_202402\00_StudentWork\00_SimpleInteractiveSystem\mySystemApp_draw.cpp(108,30): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+\\Mac\Home\Downloads\HW3\OOP_HW03_Template_NET2019_202402\00_StudentWork\00_SimpleInteractiveSystem\mySystemApp_draw.cpp(108,21): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+\\Mac\Home\Downloads\HW3\OOP_HW03_Template_NET2019_202402\00_StudentWork\00_SimpleInteractiveSystem\mySystemApp_draw.cpp(125,30): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+\\Mac\Home\Downloads\HW3\OOP_HW03_Template_NET2019_202402\00_StudentWork\00_SimpleInteractiveSystem\mySystemApp_draw.cpp(125,21): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+  mySystemApp_HandleEvents.cpp
+\\Mac\Home\Downloads\HW3\OOP_HW03_Template_NET2019_202402\00_StudentWork\00_SimpleInteractiveSystem\mySystemApp_HandleEvents.cpp(78,9): warning C4101: 'numSamples': unreferenced local variable
+\\Mac\Home\Downloads\HW3\OOP_HW03_Template_NET2019_202402\00_StudentWork\00_SimpleInteractiveSystem\mySystemApp_HandleEvents.cpp(77,12): warning C4101: 'area': unreferenced local variable
+\\Mac\Home\Downloads\HW3\OOP_HW03_Template_NET2019_202402\00_StudentWork\00_SimpleInteractiveSystem\mySystemApp_HandleEvents.cpp(105,9): warning C4101: 'numSamples': unreferenced local variable
+\\Mac\Home\Downloads\HW3\OOP_HW03_Template_NET2019_202402\00_StudentWork\00_SimpleInteractiveSystem\mySystemApp_HandleEvents.cpp(104,12): warning C4101: 'area': unreferenced local variable
+\\Mac\Home\Downloads\HW3\OOP_HW03_Template_NET2019_202402\00_StudentWork\00_SimpleInteractiveSystem\mySystemApp_HandleEvents.cpp(123,9): warning C4101: 'numSamples': unreferenced local variable
+\\Mac\Home\Downloads\HW3\OOP_HW03_Template_NET2019_202402\00_StudentWork\00_SimpleInteractiveSystem\mySystemApp_HandleEvents.cpp(122,12): warning C4101: 'area': unreferenced local variable
+\\Mac\Home\Downloads\HW3\OOP_HW03_Template_NET2019_202402\00_StudentWork\00_SimpleInteractiveSystem\mySystemApp_HandleEvents.cpp(191,45): warning C4305: 'argument': truncation from 'double' to 'float'
+\\Mac\Home\Downloads\HW3\OOP_HW03_Template_NET2019_202402\00_StudentWork\00_SimpleInteractiveSystem\mySystemApp_HandleEvents.cpp(197,31): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+\\Mac\Home\Downloads\HW3\OOP_HW03_Template_NET2019_202402\00_StudentWork\00_SimpleInteractiveSystem\mySystemApp_HandleEvents.cpp(202,45): warning C4305: 'argument': truncation from 'double' to 'float'
+\\Mac\Home\Downloads\HW3\OOP_HW03_Template_NET2019_202402\00_StudentWork\00_SimpleInteractiveSystem\mySystemApp_HandleEvents.cpp(209,31): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+\\Mac\Home\Downloads\HW3\OOP_HW03_Template_NET2019_202402\00_StudentWork\00_SimpleInteractiveSystem\mySystemApp_HandleEvents.cpp(214,45): warning C4305: 'argument': truncation from 'double' to 'float'
+\\Mac\Home\Downloads\HW3\OOP_HW03_Template_NET2019_202402\00_StudentWork\00_SimpleInteractiveSystem\mySystemApp_HandleEvents.cpp(227,47): warning C4305: 'argument': truncation from 'double' to 'float'
+  camera.cpp
+\\Mac\Home\Downloads\HW3\OOP_HW03_Template_NET2019_202402\openGLbasic\camera.cpp(57,19): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  opengl_stuff.cpp
+  painter_draw.cpp
+\\Mac\Home\Downloads\HW3\OOP_HW03_Template_NET2019_202402\primitives\vector3d.h(24,61): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  openGLapp.cpp
+  openGLapp.events.cpp
+  openGLapp_draw.cpp
+  openGLapp_init.cpp
+  openGLapp_update.cpp
+  Compiling...
+  basic_tools.cpp
+  grid2D.cpp
+  provider.cpp
+  vector3d.cpp
+  fileReader.cpp
+  imageReader.cpp
+  BG_grid2D.cpp
+\\Mac\Home\Downloads\HW3\OOP_HW03_Template_NET2019_202402\primitives\vector3d.h(24,61): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  boardGame.cpp
+  painter.cpp
+\\Mac\Home\Downloads\HW3\OOP_HW03_Template_NET2019_202402\primitives\vector3d.h(24,61): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  boardGameApp.cpp
+  freeCanvas2D.cpp
+\\Mac\Home\Downloads\HW3\OOP_HW03_Template_NET2019_202402\primitives\vector3d.h(24,61): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  lattice_manager.cpp
+  paintingSystem.cpp
+\\Mac\Home\Downloads\HW3\OOP_HW03_Template_NET2019_202402\primitives\vector3d.h(24,61): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  paintingSystemApp.cpp
+\\Mac\Home\Downloads\HW3\OOP_HW03_Template_NET2019_202402\primitives\vector3d.h(24,61): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  paintingSystemApp_draw.cpp
+\\Mac\Home\Downloads\HW3\OOP_HW03_Template_NET2019_202402\primitives\vector3d.h(24,61): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  paintingSystemApp_HandleEvents.cpp
+\\Mac\Home\Downloads\HW3\OOP_HW03_Template_NET2019_202402\primitives\vector3d.h(24,61): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  texture.cpp
+  textureManager.cpp
+  textureManager_read.cpp
+\\Mac\Home\Downloads\HW3\OOP_HW03_Template_NET2019_202402\textureManager\textureManager_read.cpp(46,12): warning C4834: discarding return value of function with 'nodiscard' attribute
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(1363,5): warning MSB8012: TargetPath(\\Mac\Home\Downloads\HW3\OOP_HW03_Template_NET2019_202402\Release\SelfMotivatedSystem.exe) does not match the Linker's OutputFile property value (\\Mac\Home\Downloads\HW3\OOP_HW03_Template_NET2019_202402\bin\Release\SelfMotivatedSystem.exe). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
+  Generating code
+  10 of 641 functions ( 1.6%) were compiled, the rest were copied from previous compilation.
+    3 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  asm.vcxproj -> \\Mac\Home\Downloads\HW3\OOP_HW03_Template_NET2019_202402\Release\SelfMotivatedSystem.exe

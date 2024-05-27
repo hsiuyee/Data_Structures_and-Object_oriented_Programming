@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "iosfwd": "cpp",
+        "vector": "cpp",
+        "__locale": "cpp",
+        "__config": "cpp",
+        "__nullptr": "cpp",
+        "stack": "cpp"
+    }
+}
