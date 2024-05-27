@@ -101,6 +101,8 @@ protected:
     GRAPH_NODE *mPassiveSelectedNode;
     //
     bool mFlgAutoNodeDeletion;
+
+    int mNum_DoubleCircles;
 };
 
 #endif

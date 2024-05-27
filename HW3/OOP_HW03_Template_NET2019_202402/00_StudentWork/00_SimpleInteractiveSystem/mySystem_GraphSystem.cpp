@@ -520,9 +520,37 @@ void GRAPH_SYSTEM::handleKeyPressedEvent( unsigned char key )
         break;
     case '5':
         mFlgAutoNodeDeletion = false;
+        mNum_DoubleCircles = 24;
         createRandomGraph_DoubleCircles(24);
         mSelectedNode = 0;
 
+        break;
+
+    case 'r' :
+        mNum_DoubleCircles = 3;
+        reset();
+        break;
+
+    case 'd' :
+        if (mFlgAutoNodeDeletion == false)
+            mFlgAutoNodeDeletion = true;
+        else
+            mFlgAutoNodeDeletion = false;
+        update();
+        break;
+
+    case '>':
+        if (mNum_DoubleCircles < 36) mNum_DoubleCircles++;
+        mFlgAutoNodeDeletion = false;
+        createRandomGraph_DoubleCircles(mNum_DoubleCircles);
+        mSelectedNode = 0;
+        break;
+
+    case '<':
+        if (mNum_DoubleCircles > 3) mNum_DoubleCircles--;
+        mFlgAutoNodeDeletion = false;
+        createRandomGraph_DoubleCircles(mNum_DoubleCircles);
+        mSelectedNode = 0;
         break;
 
     case ' ':

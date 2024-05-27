@@ -316,7 +316,6 @@ bool MY_SYSTEM_APP::handleKeyEvent( unsigned char key )
         mCurSystem->askForInput( );
         return true;
     }
-
     
     if ( mCurSystem ) {
         mPrev_2048->copy( mCurSystem );
