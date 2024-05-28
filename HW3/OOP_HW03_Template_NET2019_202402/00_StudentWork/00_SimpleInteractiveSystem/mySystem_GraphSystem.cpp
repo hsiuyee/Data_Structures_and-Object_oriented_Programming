@@ -21,8 +21,8 @@
 
 using namespace std;
 
-int Param::GRAPH_MAX_NUM_NODES = 10000;
-int Param::GRAPH_MAX_NUM_EDGES = 10000;
+int Param::GRAPH_MAX_NUM_NODES = 1000;
+int Param::GRAPH_MAX_NUM_EDGES = 1000;
 
 GRAPH_SYSTEM::GRAPH_SYSTEM( )
 {
@@ -120,14 +120,12 @@ void GRAPH_SYSTEM::createRandomGraph_DoubleCircles(int n)
         nodes_index_out.push_back(temp);
     }
 
-    int circle_edge = n / 20 + 1;
+    int range = floor((acos(d / r)) / (2 * acos(-1) / n));
     for (int i = 0; i < n; i++) {
         for (int j = 0; j < n; j++) {
             int random = rand() % 2;
             // choose and vaild
-            if (random == 1 && (abs(i - j) <= circle_edge || 
-                ((n + i - j) <= circle_edge && abs(n - i - j) <= circle_edge) ||
-                 (n + j - i)  <= circle_edge && abs(n - i - j) <= circle_edge)) {
+            if (random == 1 && (abs(i - j) <= range )) {
                 addEdge(nodes_index_in[i], nodes_index_out[j]);
             }
         }
@@ -530,15 +528,6 @@ void GRAPH_SYSTEM::handleKeyPressedEvent( unsigned char key )
         mNum_DoubleCircles = 3;
         reset();
         break;
-
-    case 'd' :
-        if (mFlgAutoNodeDeletion == false)
-            mFlgAutoNodeDeletion = true;
-        else
-            mFlgAutoNodeDeletion = false;
-        update();
-        break;
-
     case '>':
         if (mNum_DoubleCircles < 36) mNum_DoubleCircles++;
         mFlgAutoNodeDeletion = false;
@@ -557,7 +546,7 @@ void GRAPH_SYSTEM::handleKeyPressedEvent( unsigned char key )
         mFlgAutoNodeDeletion = false;
         mSelectedNode = 0;
         break;
-    case 'g':
+    case 'd':
         mFlgAutoNodeDeletion = !mFlgAutoNodeDeletion;
         break;
     }
@@ -656,4 +645,8 @@ void GRAPH_SYSTEM::update( )
     //
     // Implement your own stuff
     // 
+    if (mCurNumOfActiveNodes > 2)
+        deleteNode(mActiveNodeArr[mCurNumOfActiveNodes - 1]);
+    else
+        mFlgAutoNodeDeletion = 1;
 }
